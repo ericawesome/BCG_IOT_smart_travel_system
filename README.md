@@ -1,0 +1,2 @@
+# awesome_IOTproject_smarttravel
+As part of the BCG Platinion Hackathon 2019, our team developed a "Smart Travel System" for NextGenConsultants. Depending on the consultant's upcoming travel plans, the weather, the type of meetings and the cloakroom status, the smartphone application gives the user recommendations on what to put in the suitcase. To monitor the packing status in real time, we installed IOT devices in the suitcase and wardrobe to ensure the completion of the packing process.
