@@ -20,3 +20,12 @@ which we connected to
 in order to collect the RFID tags data to track the real-time location of the clothes in the wardrobe and suitcase. 
 
 In order to visualize the information for the consultant, we developed an IOS app and linked it to the developed technology system.
+
+
+_______________________________
+
+Credits to my team members:
+* Johannes Hoerst (IT Architect)
+* Fazeel Akthar (iOS development) https://github.com/FazeelAkhtar
+* Gaurav Joshi (Edge & cloud development team mate) https://github.com/Gauravjsh127
+* Rafael Pina (Database architect) https://github.com/rafaalb
