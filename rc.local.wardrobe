@@ -1,0 +1,2 @@
+#!/bin/sh -e
+/home/pi/demo/start_wardrobe.sh &
