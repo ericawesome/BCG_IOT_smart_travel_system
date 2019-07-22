@@ -1,5 +1,4 @@
-====================
-# IOT-Project: Smart travel system
+# IOT-Project: Smart travel system (36h Hackathon)
 
 As part of the **BCG Platinion Hackathon 2019**, our team developed a **"Smart Travel System"** for NextGenConsultants.
 
